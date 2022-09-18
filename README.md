@@ -1,22 +1,22 @@
-1. Откройте терминал и создайте директорию для проекта
-mkdir project_name 
+<p>1. Откройте терминал и создайте директорию для проекта</p>
+<p>mkdir project_name</p>
 
-2. Перейдите в директорию, где будет находиться проект
-cd project_name 
+<p>2. Перейдите в директорию, где будет находиться проект</p>
+<p>cd project_name </p>
 
-3. Скачайте проект с GitHub
-git clone git@github.com:unknwngera/unwind-digital-test-task.git
+<p>3. Скачайте проект с GitHub</p>
+<p>git clone git@github.com:unknwngera/unwind-digital-test-task.git</p>
 
-4. Перейдите в директорию самого проекта
-cd unwind-digital-test-task
+<p>4. Перейдите в директорию самого проекта</p>
+<p>cd unwind-digital-test-task</p>
 
-5. Установите все необходимые зависимости, находящиеся в файле package.json
-npm install
+<p>5. Установите все необходимые зависимости, находящиеся в файле package.json</p>
+<p>npm install</p>
 
-6. Запустите проект
-npm start
+<p>6. Запустите проект</p>
+<p>npm start</p>
 
 
 
-Логин: Unwind
-Пароль: Digital
+<p>Логин: Unwind</p>
+<p>Пароль: Digital</p>
