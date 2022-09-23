@@ -19,7 +19,8 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.unknwngera.unwind-digital-test-task"
     },
     "android": {
       "adaptiveIcon": {
