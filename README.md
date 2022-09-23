@@ -15,8 +15,12 @@
 
 <p>6. Запустите проект</p>
 <p>npm start</p>
+<p>Либо воспользуйтесь билдом: </p>
+<a href=https://expo.dev/artifacts/cf6d65f1-98e0-4299-8b76-15e4c5de9bcc>Click</a>
 
 
 
 <p>Логин: Unwind</p>
 <p>Пароль: Digital</p>
+
+
